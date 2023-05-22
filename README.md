@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-game-in-C
+# Tic-Tac-Toe-in-C
 Tic Tac Toe game in Brazilian Portuguese  made for a console interface application in C .
 
 ![](https://github.com/joaopedro-xy/Tic-Tac-Toe-game-in-C/blob/main/TicTacToe.gif.gif)
